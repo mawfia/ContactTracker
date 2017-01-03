@@ -1,13 +1,13 @@
-# Todo Tracker
-Individual Project created 22 December 2016
+# Contact Tracker
+Individual Project created 23 December 2016
 
 INTRODUCTION:
 --------------------
-This will be a Single Page AngularJS 1.5/JavaScript/jQuery/Spring/REST CRUD project application.  Currently the front-end logic with AngularJS/JavaScript/Jquery has been designed, built, and deployed to cloud services over a period of 2 days.
+This is a Single Page AngularJS 1.5/JavaScript/jQuery project application.  Front-end logic with AngularJS/JavaScript/Jquery was designed, built, and deployed to cloud services over a period of 1 day.
 
 HOW TO USE:
 ---------------------
-This is a basic task orginzer/tracker. The buttons are user friendly and fairly self-explanatory i.e. the "add todo" button adds tasks with the text the user inputs.  Tasks can be deleted, updated, and checked as completed.  A counter at the top keeps track of remaining tasks and a counter at the bottom of the application keeps track of tacks that are complete.  The use can show all tacks including completed tasks by clicking the "show completed tasks" checkbox.
+This is a basic task orginzer/tracker. The buttons are user friendly and fairly self-explanatory i.e. the "add contact" button adds contacts with the text the user inputs.  Contacts can be deleted, updated, and checked as completed.  A counter at the top keeps track of the total number of contacts.
 
 
 NOTE TO USER:
@@ -26,7 +26,7 @@ TECHNOLOGY USED:
 
 8.  The application is deployed on a AWS account for cloud services.
 
-This web application may be viewed at: http://mawfia.com:8080/TaskTracker/
+This web application may be viewed at: http://mawfia.com:8080/ContactTracker/
 
 Current Maintainer:
  * Michael Williams
