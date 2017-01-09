@@ -1,7 +1,7 @@
 # Contact Tracker
 Individual Project created 23 December 2016
 
-INTRODUCTION:
+INTRODUCTION: (Updated)
 --------------------
 This is a Single Page AngularJS 1.5/JavaScript/jQuery project application.  Front-end logic with AngularJS/JavaScript/Jquery was designed, built, and deployed to cloud services over a period of 1 day.
 
@@ -27,6 +27,7 @@ TECHNOLOGY USED:
 8.  The application is deployed on a AWS account for cloud services.
 
 This web application may be viewed at: http://mawfia.com/ContactTracker/
+**(Update)The final version of this project including TodoTracker may be viewed at: http://mawfia.com:8080/mawfia/#!/home/
 
 Current Maintainer:
  * Michael Williams
