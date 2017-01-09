@@ -27,7 +27,8 @@ TECHNOLOGY USED:
 8.  The application is deployed on a AWS account for cloud services.
 
 This web application may be viewed at: http://mawfia.com/ContactTracker/
-**(Update)The final version of this project including TodoTracker may be viewed at: http://mawfia.com:8080/mawfia/#!/home/
+
+#(Update)The final version of this project including TodoTracker may be viewed at: http://mawfia.com:8080/mawfia/#!/home/
 
 Current Maintainer:
  * Michael Williams
